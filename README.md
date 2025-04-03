@@ -1,6 +1,6 @@
 👋 Hi, I’m @TylerFeemster. On Kaggle, I'm [tylerfeemster](https://www.kaggle.com/tylerfeemster).
 
-**I'm currently open to data opportunities in the Unites States.**
+**I'm currently open to data opportunities in the Unites States, particularly in Arizona.**
 
 👀 Interested in deep learning architectures, particularly Geometric Deep Learning (GDL).
 As both decision trees and mutual information are invariant to monotonic transformations of features,
