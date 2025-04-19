@@ -4,7 +4,7 @@
 
 👀 Interested in deep learning architectures, particularly Geometric Deep Learning (GDL).
 As both decision trees and mutual information are invariant to monotonic transformations of features,
-I'm looking to apply the insights of GDL to tabular data via decision trees and information theory.
+I'm applying the insights of GDL to tabular data via decision trees and information theory.
 
 🌱 Currently playing with Google's GenAI SDK for Python.
 
